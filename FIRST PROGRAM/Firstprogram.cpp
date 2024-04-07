@@ -8,6 +8,3 @@ using namespace std;
         cout <<"Hello Neeraj Kumar Thakur";
         return 0;
     }
-
-
-   
