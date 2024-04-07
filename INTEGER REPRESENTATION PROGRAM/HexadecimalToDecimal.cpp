@@ -15,11 +15,7 @@ using namespace std;
         // This is impalicit type conversion                                                
 
         return 0;
-    }
-<<<<<<< HEAD
-=======
-//OUTPUT IS: 13
->>>>>>> 52deef08df46cee506621d812d270aee8fa8f010
+            }
     
 
     //OUTPUT IS: 13
@@ -45,8 +41,3 @@ using namespace std;
    //OUTPUT IS: 69 Hexadecimal
 
 
-<<<<<<< HEAD
-=======
-*/
-//OUTPUT IS: 69
->>>>>>> 52deef08df46cee506621d812d270aee8fa8f010
