@@ -1,7 +1,7 @@
 //________________________________________________First Method___________________________________
 
-/*WAP  to calculate the Additon, 
-Subtracton, Multiplicaton, Division using multiple variable*/
+/*WAP  to calculate the Additon, Subtracton, Multiplicaton, Division using
+    multiple variable*/
 
 
 #include<iostream>
