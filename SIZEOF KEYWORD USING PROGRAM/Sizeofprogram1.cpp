@@ -21,10 +21,10 @@ using namespace std;
     {
         clrscr();
         double a;
-        a=15.154f;
+        a=15.154;
         cout<<sizeof(a)<<"   byte";
         return 0;
     }
 */
 
-    // OUTPUT IS: 8  byte
+    // OUTPUT IS:  8  byte
