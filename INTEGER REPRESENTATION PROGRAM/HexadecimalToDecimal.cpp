@@ -16,11 +16,13 @@ using namespace std;
 
         return 0;
     }
-
     
 
- /*
+    //OUTPUT IS: 13
+
+ 
 //_____________________________________second program_____________________________
+/*
 #include<iostream>
 #define clrscr()system("cls")
 using namespace std;
@@ -34,5 +36,8 @@ using namespace std;
         
         return 0;
     }
+    */
 
-*/
+   //OUTPUT IS: 69 Hexadecimal
+
+
