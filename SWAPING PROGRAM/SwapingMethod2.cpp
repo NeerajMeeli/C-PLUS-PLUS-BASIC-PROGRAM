@@ -20,3 +20,15 @@ using namespace std;
         return 0;
 
     }
+
+
+    /*
+
+    OUTPUT (SECTION)
+    
+    Enter a number:100
+    Enter a number:999
+    BEFORE SWAPING NUMBER :100      999
+    AFTER SWAPING NUMBER :999       100
+
+    */
