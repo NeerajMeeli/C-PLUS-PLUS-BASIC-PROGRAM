@@ -1,3 +1,5 @@
+//________________________________________________First Method___________________________________
+
 /*WAP  to calculate the Additon, 
 Subtracton, Multiplicaton, Division using multiple variable*/
 
@@ -36,7 +38,7 @@ using namespace std;
     */
 
 
-    //____________________________Second Method______________________________
+    //_________________________________________Second Method___________________________________
 
 /*QUESTION NO 2 : WAP  to calculate the Additon,Subtracton, Multiplicaton, Division 
   using  third  variable*/
@@ -75,8 +77,7 @@ using namespace std;
     */ 
 
 
-
- //____________________________Third Method______________________________
+ //______________________________________Third Method______________________________________
 
 /*QUESTION NO 3 : WAP  to calculate the Additon,Subtracton, Multiplicaton, Division 
   without using third  variable*/
@@ -110,4 +111,6 @@ using namespace std;
         Multiplication is :56
         Division is :3   
     */
+
+   
     
