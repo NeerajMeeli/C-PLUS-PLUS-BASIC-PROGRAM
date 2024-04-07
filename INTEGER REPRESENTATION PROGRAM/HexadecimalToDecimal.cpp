@@ -16,7 +16,7 @@ using namespace std;
 
         return 0;
     }
-
+//OUTPUT IS: 13
     
 
  /*
@@ -36,3 +36,4 @@ using namespace std;
     }
 
 */
+//OUTPUT IS: 69
