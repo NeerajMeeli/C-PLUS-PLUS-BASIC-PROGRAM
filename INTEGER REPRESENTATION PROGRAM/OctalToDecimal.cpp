@@ -12,6 +12,8 @@ using namespace std;
         cout <<"Answer is : "<<Neeraj<<"  decimal";     // 1*8power1 + 3*8power2
                                                         // 8 + 3 = 13 
 
+        // This is impalicit type conversion                                                
+
         return 0;
     }
 
@@ -28,7 +30,8 @@ using namespace std;
         //convert octal to decimal 
         cout <<"Answer is : "<<Neeraj<<"  decimal";
 
-
+        // This is impalicit type conversion
+        
         return 0;
     }
 
