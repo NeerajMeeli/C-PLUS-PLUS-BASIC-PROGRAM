@@ -1,5 +1,5 @@
 //__________________________________________________________First Method______________________________________
-//WAP to addition of any two number
+//WAP to calculate the addition of any two number
 
 #include<iostream>
 #define clrscr()system("cls")
@@ -22,7 +22,7 @@ using namespace std;
 
 /*
 //__________________________________________________________Scond Method______________________________________
-//WAP to addition without using third variable.
+//WAP to tocalculate the addition without using third variable.
 #include<iostream>
 #define clrscr()system("cls")
 using namespace std;
@@ -48,7 +48,7 @@ using namespace std;
 
 /*
 //__________________________________________________________Third  Method______________________________________
-//QUESTION NO 3 : WAP to addition of two number without using any variable.
+//QUESTION NO 3 : WAP to calculate the addition of two number without using any variable.
 #include<iostream>
 #define clrscr()system("cls")
 using namespace std;
