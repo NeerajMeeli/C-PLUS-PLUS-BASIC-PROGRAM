@@ -1,4 +1,4 @@
-//WAP to division of any two number
+//WAP to calculate the division of any two number
 #include<iostream>
 #define clrscr()system("cls")
 using namespace std;
@@ -22,7 +22,7 @@ using namespace std;
     /*
 //__________________________________________________________Scond Method______________________________________
 
-//WAP to division without using third variable.
+//WAP to calculate the division without using third variable.
 
 #include<iostream>
 #define clrscr()system("cls")
@@ -47,7 +47,7 @@ using namespace std;
 /*
 //__________________________________________________________Third  Method______________________________________
 
-//QUESTION NO 3 : WAP to division of two number without using any variable.
+//QUESTION NO 3 : WAP to calculate the division of two number without using any variable.
 
 #include<iostream>
 #define clrscr()system("cls")

@@ -18,7 +18,7 @@ using namespace std;
 
 
 
-    /*
+/*    
 //__________________________________________________________Scond Method______________________________________
 //WAP to calculate the subtraction without using third variable.
 #include<iostream>
@@ -37,13 +37,16 @@ using namespace std;
 
         return 0;
     }
-*/
+    */
+
 
 
 
 /*
 //__________________________________________________________Third  Method______________________________________
+
 //QUESTION NO 3 : WAP to calculate the subtraction of two number without using any variable.
+
 #include<iostream>
 #define clrscr()system("cls")
 using namespace std;
