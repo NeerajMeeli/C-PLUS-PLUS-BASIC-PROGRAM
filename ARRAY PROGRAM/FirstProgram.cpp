@@ -26,15 +26,7 @@ using namespace std;
             cout <<endl;
          }
          cout <<"sum is :"<<sum<<endl;
-         // if(sum%2==0){
-         // cout <<"This num is Even:"<<sum<<endl;
-         // }
-         // else{
-         //    cout <<"This num is Odd:"<<sum;
-         // }
-     
-      // sum%2==0?cout <<"This num is Even: "<<sum<<endl: cout<<"This num is Odd"<<sum<<endl;
-      //sum%2?cout <<"This num is odd: "<<sum<<endl: cout<<"This num is even"<<sum<<endl;
+        
      return 0;
 
     }
