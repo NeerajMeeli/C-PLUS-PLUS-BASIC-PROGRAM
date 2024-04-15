@@ -1,4 +1,4 @@
-//WAP N number of element and sum of all number
+//WAP N number of element and sum of all number using for loops.
 
 #include<iostream>
 using namespace std;
@@ -23,7 +23,7 @@ using namespace std;
     }
     
    //____________________________________second Method__________________________
-   //WAP N number of element and sum of all number
+   //WAP N number of element and sum of all number using do while loops
 
    /*
    #include<iostream>
@@ -53,10 +53,12 @@ using namespace std;
 
         return 0;
     }
+     
     */
 
+
 //________________________________Third Method_________________________________
-//WAP N number of element and sum of all number
+//WAP N number of element and sum of all number using while loops
 /*
    #include<iostream>
    using namespace std;
