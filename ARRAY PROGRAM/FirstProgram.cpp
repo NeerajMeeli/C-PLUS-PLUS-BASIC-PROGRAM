@@ -49,7 +49,7 @@ using namespace std;
         
         cin>>arr[i];
          i++;
-        }
+        }    
          while(i<Size);
 
          i=0;
