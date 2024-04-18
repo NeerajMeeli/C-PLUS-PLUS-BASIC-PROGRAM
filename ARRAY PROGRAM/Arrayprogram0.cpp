@@ -1,6 +1,6 @@
-//__________________________________________Method first____________________________
-/*WAP to inplimant the enter the user  element of array and 
-   print the  element of array using while loop*/
+//_____________________________________Method first_________________________
+/*WAP in which take the input from user and print the  element of array
+    using while loop*/
 
 #include<iostream>
 using namespace std;
@@ -32,9 +32,10 @@ using namespace std;
     }
     
 
-//___________________________________Method second________________________________
-/*WAP to inplimant the enter the user  element of array and 
-   print the  element of array using do while loop*/
+//___________________________________Method second______________________________
+   /*WAP in which take the input from user and print the  element of array
+    using do while loop*/
+
 
 /*
 #include<iostream>
@@ -67,23 +68,26 @@ using namespace std;
     */
 
 
-//______________________________________Method third_______________________________
-/*WAP to inplimant the enter the user  element of array and 
-   print the element of array using for loop*/
+//______________________________________Method third_____________________________
+ 
+   /* WAP in which take the input from user and print the  element of array
+    using do while loop
+    */
 /*
 
  #include<iostream>
-using namespace std;
+ using namespace std;
     int main()
     {
        // const int Size =5;
          int arr[5];
         int i=0;
          cout <<"Enter a number of arr :";
-        for(; i<5;){
-        cin>>arr[i];
-        i++;
-                }
+        for(; i<5;)
+        {
+               cin>>arr[i];
+               i++;
+         }
          i=0;
           cout <<"enter are result print :";
          for(;i<5;)

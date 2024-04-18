@@ -1,5 +1,5 @@
 //_____________________________________Method First_______________________________
-/*QUESTION: WAP N number of eleent and print the element or sum
+/*QUESTION: WAP N number of element and print the element or sum
      of all nmber using for loop*/
 
 
