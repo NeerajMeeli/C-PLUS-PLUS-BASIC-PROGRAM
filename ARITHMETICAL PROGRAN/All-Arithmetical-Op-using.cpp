@@ -112,5 +112,36 @@ using namespace std;
         Division is :3   
     */
 
+
+
+   //______________________________________Fourth Method______________________________________
+
+/*QUESTION NO 3 : WAP  to calculate the Additon,Subtracton, Multiplicaton, Division 
+  without variable*/
+/*
+ #include<iostream>
+#define clrscr()system("cls")
+using namespace std;
+    int main()
+    {
+       
+        cout<<"Addition is :"<<14+4<<endl; 
+        cout<<"Subtracation is :"<<14-4<<endl;
+        cout<<"Multiplication is :"<<14*4<<endl;
+        cout<<"Division is :"<<14/4<<endl;
+        return 0;
+    } 
+
+    */
+    
+    /* 
+      OUTPUT (SECTION)
+
+        Addition is :18      
+        Subtracation is :10  
+        Multiplication is :56
+        Division is :3   
+    */
+
    
     

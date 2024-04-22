@@ -6,7 +6,7 @@ using namespace std;
         char ch;
         cout <<"Enter a charctor lower case:";
         cin>>ch;
-        ch=ch+32;
+        ch=ch-32;
         cout <<"Upper case is :"<<ch;
         return 0;
     }
