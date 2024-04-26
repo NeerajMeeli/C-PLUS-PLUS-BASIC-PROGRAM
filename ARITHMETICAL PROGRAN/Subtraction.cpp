@@ -1,6 +1,5 @@
 //WAP to calculate the subtraction of any two number
 #include<iostream>
-#define clrscr()system("cls")
 using namespace std;
     int main()
     {
