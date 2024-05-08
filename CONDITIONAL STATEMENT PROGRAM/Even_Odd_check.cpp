@@ -1,3 +1,6 @@
+/*  WAP in which take input from the user and check the num is Odd or Even 
+    using conditional statement. */
+
 #include<iostream>
 using namespace std;
     int main()
